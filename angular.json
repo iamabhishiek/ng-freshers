@@ -121,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-freshers"
+    }
+  },
+  "defaultProject": "ng-freshers",
+  "cli": {
+    "analytics": "e393d233-82a5-4d7b-8df4-0b11dd64005e"
+  }
 }
